@@ -1,6 +1,11 @@
-# Ola, meu nome é Carlos
-
-## Estou aprendendendo TI
+# Ola, meu nome é Carlos!
+estou aprendendo TI.
+## Projetos
+1. questoes portugol (0 a 100)
+2. questoes python (0 a 200)
+3. HTML
+4. Vagalume (TCC)
+5. 
 
 <!--
 **dudumilan/dudumilan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
