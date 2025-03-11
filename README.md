@@ -1,5 +1,6 @@
-# Ola, meu nome é Carlos!, Tenho 17 Anos
-estou aprendendo TI.
+# Seja bem-vindo a o meu perfil
+- Ola me chamo carlos e tenho 17 anos
+- 
 ## Projetos
 1. questoes portugol (0 a 100)
 2. questoes python (0 a 200)
