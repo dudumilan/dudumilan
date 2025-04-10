@@ -1,24 +1,31 @@
-# Seja bem-vindo a o meu perfil
-- Ola me chamo carlos e tenho 17 anos
-- 
-## Projetos
-1. questoes portugol (0 a 100)
-2. questoes python (0 a 200)
-3. HTML
-4. Vagalume (TCC)
-5. 
+# 👋 Seja bem-vindo(a) ao meu perfil!
 
-<!--
-**dudumilan/dudumilan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Sobre mim
+- 📛 Me chamo **Carlos**
+- 🎂 Tenho **17 anos**
+- 💻 Gosto De tecnologia, programação e aprender coisas novas
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projetos em andamento
+
+1. 🐍 **Questões de Python** (0 a 200)
+2. 🌐 **HTML** – Projetos e estudos com HTML
+3. 📚 **Vagalume (TCC)** – Trabalho de Conclusão de Curso
+4. 🔜 **Mortal Kombat**
+
+---
+
+### 💬 Vamos trocar uma ideia?
+- 📫 Você pode me encontrar por aqui no GitHub mesmo!
+- ✨ Ou no instagram @_milanz7
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px"/>
+</div>
+
+---
+
+> _"Esteja sozinho, este é o segredo da invenção, estar sozinho, isto é quando as ideias nascem."_ – Nikola Tesla
