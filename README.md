@@ -29,4 +29,4 @@
 
 ---
 
-> _"Esteja sozinho, este é o segredo da invenção, estar sozinho, isto é quando as ideias nascem."_ – Nikola Tesla
+> _"Objetivo sem planos é chamado de delirio."_
