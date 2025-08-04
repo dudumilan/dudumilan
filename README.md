@@ -12,8 +12,8 @@
 1. 🐍 **Questões de Python** (0 a 200)
 2. 🌐 **HTML** – Projetos e estudos com HTML
 3. 📚 **Vagalume (TCC)** – Trabalho de Conclusão de Curso
-4. 🔜 **Mortal Kombat**
-5. **MCmusic**
+4. 🎮 **Mortal Kombat**
+5. 🎵 **MCmusic**
 
 ---
 
