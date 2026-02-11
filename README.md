@@ -24,10 +24,14 @@
 
 ---
 
-<div align="center">
-  <img src="(![To Be Hero X](https://media1.tenor.com/m/ejrvW2V_shkAAAAd/to-be-hero-x-x.gif)
-)" width="300px"/>
-</div>
+<p align="center">
+  <img src="https://media1.tenor.com/m/ejrvW2V_shkAAAAd/to-be-hero-x-x.gif" width="450px" alt="To Be Hero X No 0 GIF">
+</p>
+
+<p align="center">
+  <i>"Objetivo sem planos é chamado de delírio."</i>
+</p>
+
 
 ---
 <div class="tenor-gif-embed" data-postid="8807615197100356121" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/to-be-hero-x-x-no-0-number-0-no-x-gif-8807615197100356121">To Be Hero X No 0 GIF</a>from <a href="https://tenor.com/search/to+be+hero+x-gifs">To Be Hero X GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
