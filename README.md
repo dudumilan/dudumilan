@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Sobre mim
 - 📛 Me chamo **Carlos**
-- 🎂 Tenho **17 anos**
+- 🎂 Tenho **18 anos**
 - 💻 Gosto De tecnologia, programação e aprender coisas novas
 
 ---
