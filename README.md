@@ -25,7 +25,8 @@
 ---
 
 <div align="center">
-  <img src="(https://tenor.com/kEM8mRjTZJl.gif)" width="300px"/>
+  <img src="(![To Be Hero X](https://media1.tenor.com/m/ejrvW2V_shkAAAAd/to-be-hero-x-x.gif)
+)" width="300px"/>
 </div>
 
 ---
