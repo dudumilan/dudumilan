@@ -1,21 +1,35 @@
-# 👋 Seja bem-vindo(a) ao meu perfil!
+Olá, eu sou o Eduardo
 
-### 👨‍💻 Sobre mim
-- 📛 Me chamo **Carlos**
-- 🎂 Tenho **18 anos**
-- 💻 Gosto De tecnologia, programação e aprender coisas novas
+💻 Desenvolvedor em formação apaixonado por tecnologia  
+🚀 Atualmente estudando Python e desenvolvimento web  
+📚 Sempre buscando evoluir e construir projetos reais  
 
 ---
 
-### 🚀 Projetos
+## 🧠 Tecnologias que utilizo
 
-1. 🐍 **Questões de Python** (0 a 200)
-2. 🌐 **HTML** – Projetos e estudos com HTML
-3. 📚 **Vagalume (TCC)** – Trabalho de Conclusão de Curso 2Ano
-4. 🎮 **Mortal Kombat** - Trabalho de Conclusão de HTML
-5. 🎵 **MCmusic** - Trabalho de Conclusão de HTML
-6. 🏛️ **MDJ(Museu De Jogos)** - Trabalho de Conclusão de Curso 3Ano
+- Python
+- HTML
+- CSS
+
 ---
+
+## 📌 Projetos em destaque
+
+🔹 **Sistema de Blog com Django**  
+Projeto completo com cadastro de artigos e painel administrativo  
+
+🔹 **MC Music**  
+Site voltado para música com foco em interface e organização  
+
+🔹 **Mortal Kombat**  
+Projeto front-end com foco em layout e interatividade  
+
+🔹 **Vagalume Clone**  
+Reprodução de interface com HTML e CSS  
+
+---
+
 
 ### 💬 Vamos trocar uma ideia?
 - 📫 Você pode me encontrar por aqui no GitHub mesmo!
