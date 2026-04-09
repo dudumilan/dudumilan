@@ -14,7 +14,7 @@ Olá, eu sou o Eduardo
 
 ---
 
-## 📌 Projetos em destaque
+## 📌 Meus Projetos
 
 🔹 **Sistema de Blog com Django**  
 Projeto completo com cadastro de artigos e painel administrativo  
