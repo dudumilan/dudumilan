@@ -1,8 +1,8 @@
 Olá, eu sou o Eduardo
 
-💻 Desenvolvedor em formação apaixonado por tecnologia  
-🚀 Atualmente estudando Python e desenvolvimento web  
-📚 Sempre buscando evoluir e construir projetos reais  
+Desenvolvedor em formação apaixonado por tecnologia  
+Atualmente estudando Python e desenvolvimento web  
+Sempre buscando evoluir e construir projetos reais  
 
 ---
 
