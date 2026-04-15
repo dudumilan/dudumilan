@@ -6,7 +6,7 @@ Olá, eu sou o Eduardo
 
 ---
 
-## 🧠 Tecnologias que utilizo
+## Tecnologias que utilizo
 
 - Python
 - HTML
@@ -14,7 +14,7 @@ Olá, eu sou o Eduardo
 
 ---
 
-## 📌 Meus Projetos
+## Meus Projetos
 
 🔹 **Sistema de Blog com Django**  
 Projeto completo com cadastro de artigos e painel administrativo  
@@ -31,10 +31,10 @@ Reprodução de interface com HTML e CSS
 ---
 
 
-### 💬 Vamos trocar uma ideia?
-- 📫 Você pode me encontrar por aqui no GitHub mesmo!
-- ✨ Ou no instagram @_milanz7
-- 📧 Ou no meu Gmail carloseduardomilann@gmail.com
+### Vamos trocar uma ideia?
+- Você pode me encontrar por aqui no GitHub mesmo!
+- Ou no instagram @_milanz7
+- Ou no meu Gmail carloseduardomilann@gmail.com
 
 ---
 
